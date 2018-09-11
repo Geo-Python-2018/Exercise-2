@@ -1,2 +1,3 @@
 # Exercise-2
-Repository for exercise 2 in the 2018 Geo-Python course
+
+Start the exercise by opening **[this notebook](Exercise-2.ipynb)**.
